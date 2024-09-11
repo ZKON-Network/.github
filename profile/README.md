@@ -2,6 +2,8 @@
 
 Welcome to [ZKON](https://zkon.xyz), the groundbreaking zkOracle network designed to provide unparalleled data integrity and privacy for the decentralized world. ZKON harnesses the power of zero-knowledge proofs to deliver provable data feeds, ensuring that all information within our ecosystem is both secure and verifiable.
 
+[ZKON Documentation](https://zkon.xyz/documentation)
+
 ## What is ZKON?
 
 ZKON is a sophisticated blend of blockchain technology and zero-knowledge proofs, offering Web3 developers a seamless way to integrate secure, provable data feeds into their applications. By leveraging ZKON, developers can enhance the trustworthiness and efficiency of their decentralized applications (dApps) across various blockchain networks.
