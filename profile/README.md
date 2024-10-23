@@ -6,7 +6,7 @@ ZKON tackles key oracle challenges such as **centralization**, **data integrity*
 
 ---
 
-### 📂 Main Repositories
+### 📄 Documentation
 
 | Repository                               | Description                                       |
 |------------------------------------------|---------------------------------------------------|
@@ -17,7 +17,7 @@ ZKON tackles key oracle challenges such as **centralization**, **data integrity*
 
 ---
 
-### 🌐 Socials
+### 💬 Socials
 
 - [Follow us on 𝕏 (Twitter)](https://twitter.com/zkon_network)
 - [Join us on Discord](https://discord.gg/AnmcW4HY2M)
