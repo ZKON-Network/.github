@@ -18,5 +18,3 @@ ZKON tackles key oracle challenges such as **centralization**, **data integrity*
 | [zkTLS Mina Oracle Integration](https://github.com/ZKON-Network/zkTLS-Mina-Oracle)                  | ZKON Oracle to enable on-chain zkTLS transactions.|
 | [zkTLS Mina zkApp](https://github.com/ZKON-Network/zkTLS-Mina-zkApp)             | zkApp for enabling zkTLS on the Mina blockchain.   |
 | [zkTLS Offchain SDK](https://github.com/ZKON-Network/zkTLS-Offchain-SDK)           | TypeScript SDK to run zkTLS requests. |
-
----
