@@ -10,7 +10,7 @@ ZKON tackles key oracle challenges such as **centralization**, **data integrity*
 
 ---
 
-### 📄 Documentation
+## 📄 Documentation
 
 <div align="center">
 
