@@ -1,9 +1,8 @@
-## ZKON Network | Verify to the World Your Data Integrity 🛡
 ![GENERAL BANNER V3](https://github.com/user-attachments/assets/aa824f25-1553-4be9-a164-12f0f70ad394)
 
-ZKON is a decentralized **zkOracle** network that provides secure, verifiable data feeds through **Zero-Knowledge Proofs (ZKPs)**, **Multi-Party Computation (MPC)**, and **zkTLS** technology. It ensures data integrity, privacy, and encrypted communication across blockchain networks like **Ethereum**, **Cosmos**, **Solana**, and **Bitcoin**.
+ZKON is a decentralized **zkOracle** network that provides secure, verifiable data feeds through **Zero-Knowledge Proofs (ZKPs)**, **Multi-Party Computation (MPC)**, and **zkTLS**.
 
-ZKON tackles key oracle challenges such as **centralization**, **data integrity**, **scalability**, and **secure transmission**. Using a decentralized network of provers, zkTLS for encrypted data transmission, and MPC for distributed computations, ZKON offers real-time, low-latency, and cross-chain compatible solutions for dApps.
+ZKON tackles key oracle challenges such as **centralization**, **data integrity**, **scalability**, and **secure transmission**. Using a decentralized network of provers, zkTLS for encrypted data transmission, and MPC for distributed computations, ZKON offers real-time, low-latency, and cross-chain data solutions.
 
 ---
 
@@ -11,20 +10,18 @@ ZKON tackles key oracle challenges such as **centralization**, **data integrity*
 
 | Repository                               | Description                                       |
 |------------------------------------------|---------------------------------------------------|
-| [Incentivised Testnet Program](#link)    | Integrate ZKON and win a share of the 0.5% of the total ZKON token supply. |
-| [ZKON zkOracle](#link)                  | Main zkOracle network repository.                 |
-| [ZKON Documentation](#link)             | Technical documentation and integration guides.   |
-| [ZKON Smart Contracts](#link)           | Smart contract code for integrating ZKON oracles. |
+| [Incentivised Testnet Program](https://github.com/ZKON-Network/Incentivised-Testnet-Program)    | Integrate ZKON and win a share of the 0.5% of the total ZKON token supply. |
+| [zkTLS Mina Oracle Integration](https://github.com/ZKON-Network/zkTLS-Mina-Oracle)                  | ZKON Oracle to enable on-chain zkTLS transactions.|
+| [zkTLS Mina zkApp](https://github.com/ZKON-Network/zkTLS-Mina-zkApp)             | zkApp for enabling zkTLS on the Mina blockchain.   |
+| [zkTLS Offchain SDK](https://github.com/ZKON-Network/zkTLS-Offchain-SDK)           | TypeScript SDK to run zkTLS requests. |
 
 ---
 
 ### 🌐 Socials
 
-| Platform      | Link                                                              | 
-|---------------|-------------------------------------------------------------------|
-| **𝕏 (Twitter)**  | [Follow us on 𝕏](https://twitter.com/zkon_network)                |
-| **Discord**   | [Join us on Discord](https://discord.gg/AnmcW4HY2M)               |
-| **GitHub**    | [Our GitHub](https://github.com/ZKON-Network)                     |
-| **LinkedIn**  | [Connect on LinkedIn](https://linkedin.com)                       |
-| **Warpcast**  | [Warpcast Profile](https://warpcast.com/zkon_network)             |
-| **Linktree**  | [All ZKON Links](https://linktr.ee/zkon_network)                  |
+- [Follow us on 𝕏 (Twitter)](https://twitter.com/zkon_network)
+- [Join us on Discord](https://discord.gg/AnmcW4HY2M)
+- [Our GitHub](https://github.com/ZKON-Network)
+- [Connect on LinkedIn](https://linkedin.com)
+- [Warpcast Profile](https://warpcast.com/zkon_network)
+- [All ZKON Links (Linktree)](https://linktr.ee/zkon_network)
