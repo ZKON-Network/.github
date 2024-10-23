@@ -5,7 +5,7 @@ ZKON is a decentralized **zkOracle** network that provides secure, verifiable da
 ZKON tackles key oracle challenges such as **centralization**, **data integrity**, **scalability**, and **secure transmission**. Using a decentralized network of provers, zkTLS for encrypted data transmission, and MPC for distributed computations, ZKON offers real-time, low-latency, and cross-chain data solutions.
 
 <p align="center">
-  <a href="https://zkon.xyz"><strong>Website</strong></a> | <a href="https://www.zkon.xyz/blog"><strong>Blog</strong></a> | <a href="https://www.zkon.xyz/use-cases"><strong>Use Cases</strong></a> | <a href="https://www.zkon.xyz/contact"><strong>Contact</strong></a> | <a href="https://discord.gg/AnmcW4HY2M"><strong>Community</strong></a>
+  <a href="https://zkon.xyz"><strong>Website</strong></a> | <a href="https://www.zkon.xyz/blog"><strong>Blog</strong></a> | <a href="https://www.zkon.xyz/use-cases"><strong>Use Cases</strong></a> | <a href="https://www.zkon.xyz/customer-stories"><strong>Customer Stories</strong></a> | <a href="https://www.zkon.xyz/contact"><strong>Contact</strong></a> | <a href="https://discord.gg/AnmcW4HY2M"><strong>Community</strong></a>
 </p>
 
 ---
