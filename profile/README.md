@@ -1,4 +1,5 @@
 ## ZKON Network | Verify to the World Your Data Integrity 🛡
+![GENERAL BANNER V3](https://github.com/user-attachments/assets/aa824f25-1553-4be9-a164-12f0f70ad394)
 
 ZKON is a decentralized **zkOracle** network that provides secure, verifiable data feeds through **Zero-Knowledge Proofs (ZKPs)**, **Multi-Party Computation (MPC)**, and **zkTLS** technology. It ensures data integrity, privacy, and encrypted communication across blockchain networks like **Ethereum**, **Cosmos**, **Solana**, and **Bitcoin**.
 
