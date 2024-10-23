@@ -1,7 +1,5 @@
 ![GENERAL BANNER V3](https://github.com/user-attachments/assets/aa824f25-1553-4be9-a164-12f0f70ad394)
 
-# ZKON Network
-
 ZKON is a decentralized **zkOracle** network that provides secure, verifiable data feeds through **Zero-Knowledge Proofs (ZKPs)**, **Multi-Party Computation (MPC)**, and **zkTLS**.
 
 ZKON tackles key oracle challenges such as **centralization**, **data integrity**, **scalability**, and **secure transmission**. Using a decentralized network of provers, zkTLS for encrypted data transmission, and MPC for distributed computations, ZKON offers real-time, low-latency, and cross-chain data solutions.
