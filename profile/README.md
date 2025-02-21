@@ -1,5 +1,7 @@
 ![GENERAL BANNER V3](https://github.com/user-attachments/assets/aa824f25-1553-4be9-a164-12f0f70ad394)
 
+> [Welcome Mina Navigators](https://www.zkon.xyz/zkon-zktls-mina-navigators-program)
+
 ZKON is a a decentralized **Oracle Network** that provides secure, verifiable data feeds through **Zero-Knowledge Proofs (ZKPs)**, **zkTLS**, and **cryptographic attestations**.
 
 ZKON Network tackles key oracle challenges such as **centralization**, **data integrity**, **scalability**, and **secure transmission**. Using a **decentralized prover network**, **zkTLS for encrypted data verification**, and **privacy-preserving computation**, ZKON delivers **real-time, tamper-proof, and cross-chain _TrueData solutions_**.
